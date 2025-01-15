@@ -44,20 +44,7 @@ HTML landing page template deployed by Baklib CMS.
 ```
 
 
-## 🧞 Commands
-
-All commands are run from the root of the project, from a terminal:
-
-| Command                | Action                                             |
-| :--------------------- | :------------------------------------------------- |
-| `yarn`                 | Installs dependencies                              |
-| `yarn build`           | Starts local dev server at `localhost:3000`        |
-| `npm run build`        | Build your production site to `./dist/`            |
-| `npm run preview`      | Preview your build locally, before deploying       |
-| `npm run astro ...`    | Run CLI commands like `astro add`, `astro preview` |
-| `npm run astro --help` | Get help using the Astro CLI                       |
-
-## 👀 Want to learn more?
+## 🧞 Install guide
 
 This HTML template is shipped with the (Tailwind CLI tool)[https://tailwindcss.com/docs/installation].
 
